@@ -4,6 +4,8 @@ The purpose of this repository is to try to attempt to preserve as much media ab
 1. Tooling: To collect media in as raw a form as possible, organize this data, data deduplication, and provide additional tooling for interrogating this data for insights in the future. This list is not exhaustive. 
 2. Actual data
 
+Starring of this repo is appreciated! It can help widely with visibility via Github's Explore functionality.
+
 # Background motivating initial goal
 I've been learning Ukrainian for a while. Currently, I read Zelensky's posts in Telegram each day. I miss a good chunk of them and I began to worry that it would be possible that all of those communications could potentially be lost in the future. Aside from personal reasons this could be bad for the historical records. 
 
